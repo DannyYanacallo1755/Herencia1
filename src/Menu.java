@@ -45,8 +45,7 @@ public class Menu {
        System.out.println(Ana.getNombre()+" es "+Ana.getCargo());
        System.out.println("Tiene "+Ana.getDireccion());
        System.out.println("Es de signo "+Ana.getSigno());
-
-       Examinar.
+       System.out.println("Este es el metodo Examinar");
        System.out.println("");
 
        Persona Pablo=new Persona(123123212,
